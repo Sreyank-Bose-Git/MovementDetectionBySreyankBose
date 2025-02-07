@@ -1,0 +1,32 @@
+body {
+    font-family:cursive;
+    background-color: rgba(15, 25, 85, 0.43);
+}
+#label {
+    font-size: 50px;
+    background-color: crimson;
+    text-align: center;
+    border-radius: 30px;
+    width: 500px;
+    border: 5px solid black;
+    box-shadow: 0 5px 15px #000;
+    margin: auto;
+}
+#container {
+    border: 5px solid #000;
+    margin: auto;
+    padding: 50px;
+    background-color: cadetblue;
+    box-shadow: 0 10px 15px #000;
+    text-align: center;
+    width: fit-content;
+}
+#canvas {
+    border: 5px solid #000;
+}
+#group {
+    border: 5px solid #000;
+    margin: auto;
+    background-color: aliceblue;
+    text-align: center;
+}
